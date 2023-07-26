@@ -1,0 +1,2 @@
+# DATASCIENCE-statistics
+basic terms
